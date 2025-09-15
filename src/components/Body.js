@@ -1,4 +1,4 @@
-import { FaLinkedIn, FaGithub } from "react-icons/fa";
+import { FaLinkedIn, FaGithub } from "react-icons";
 import Avatar from '../assets/Software.png';
 
 const Body = () => {
